@@ -1,7 +1,5 @@
 ---
-layout: page
-title: My Open Source Contributions
-permalink: /contributions/
+My Open Source Contributions
 ---
 
 <!-- 
