@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 My name is Anthony Cheang, I am a student currently studying Computer Science at New York University (NYU). This about page is created for Joanna Klukowska's Open Source Software Development Course (Spring '19).
 
 ### More Information
