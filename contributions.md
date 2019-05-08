@@ -26,6 +26,9 @@ Replace the first row with your contribution.
 |  13  |  [Contribution](https://en.wikipedia.org/w/index.php?title=Pizza_Principle&oldid=894262753)  |  Wikipedia  |  Updated Wikipedia Page On The Pizza Principle  |
 |  13  |  [Contribution](https://en.wikipedia.org/w/index.php?title=New_York_University_Tisch_School_of_the_Arts&oldid=894267283)  |  Wikipedia  |  Updated Wikipedia Page On NYU Tisch  |
 |  13  |  [Contribution](https://en.wikipedia.org/w/index.php?title=MegaMan_NT_Warrior&oldid=894269416)  |  Wikipedia  |  Updated Wikipedia Page on Megaman NT Warrior  |
+|  14  |  [Contribution](https://en.wikipedia.org/w/index.php?title=Mega_Man_Battle_Network&oldid=895836117)  |  Wikipedia  | Updated Wikipedia Page on Megaman Battle Network  |
+|  14  |  [Contribution](https://en.wikipedia.org/w/index.php?title=Mega_Man_Battle_Network&oldid=895841357)  |  Wikipedia  |
+Updated Wikipedia Page on Megaman Battle Network  |
 
 
 
